@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.thyagoribeiro</groupId>
-    <artifactId>Fatura</artifactId>
+    <artifactId>Transacao</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Fatura</name>
-    <description>Implementar uma api que suporte o funcionamento de um cartão de crédito - Fatura</description>
+    <name>Transacao</name>
+    <description>Implementar uma api que suporte o funcionamento de um cartão de crédito - Transacao</description>
 
     <properties>
         <java.version>11</java.version>
