@@ -2,14 +2,12 @@ package br.com.thyagoribeiro.fatura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.openfeign.EnableFeignClients;
-import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
-public class FaturaApplication {
+public class TransacaoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FaturaApplication.class, args);
+        SpringApplication.run(TransacaoApplication.class, args);
     }
 
 }
